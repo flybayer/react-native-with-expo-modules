@@ -1,0 +1,20 @@
+{
+  "name": "empty-project-template",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
+  "dependencies": {
+    "expo-core": "^1.1.0",
+    "expo-font-interface": "^1.0.0",
+    "expo-image-loader-interface": "^1.0.0",
+    "expo-react-native-adapter": "^1.1.1",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz"
+  },
+  "devDependencies": {
+    "babel-preset-react-native-stage-0": "^1.0.1"
+  }
+}
